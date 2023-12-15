@@ -1,0 +1,6 @@
+@ERC20Wrapper_HostAddress = http://localhost:5159
+
+GET {{ERC20Wrapper_HostAddress}}/
+Accept: application/json
+
+###

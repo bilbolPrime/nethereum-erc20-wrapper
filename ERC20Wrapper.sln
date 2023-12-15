@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERC20Wrapper.Chain", "ERC20Wrapper.Chain\ERC20Wrapper.Chain.csproj", "{4504E931-250F-4C81-9BCC-FCC056BB151F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERC20Wrapper.API", "ERC20Wrapper.API\ERC20Wrapper.API.csproj", "{AAE0773F-4360-4762-BDF6-2D27B59D5C2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4504E931-250F-4C81-9BCC-FCC056BB151F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4504E931-250F-4C81-9BCC-FCC056BB151F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4504E931-250F-4C81-9BCC-FCC056BB151F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4504E931-250F-4C81-9BCC-FCC056BB151F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAE0773F-4360-4762-BDF6-2D27B59D5C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE0773F-4360-4762-BDF6-2D27B59D5C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE0773F-4360-4762-BDF6-2D27B59D5C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE0773F-4360-4762-BDF6-2D27B59D5C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88ED6B01-9DD4-46F0-AB98-9AEA16A0103B}
+	EndGlobalSection
+EndGlobal
